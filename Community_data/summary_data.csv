@@ -1,0 +1,15 @@
+id;assemblage;replicate;algae_biomass_m2;invert_biomass_m2;invert_ind_m2;invert_ind_m2_log
+degraded1;degraded;1;60.485;1.01525;2175;7.685243608
+degraded3;degraded;3;35.55;;;
+degraded4;degraded;4;36.925;3.4135;2500;7.824445931
+degraded5;degraded;5;54.5225;;;
+degraded6;degraded;6;53.1525;1.93275;2675;7.892078421
+forest2;forest;2;326.7625;8.37125;29050;10.27680819
+forest3;forest;3;286.2375;;;
+forest4;forest;4;306.4375;11.41675;15700;9.661479684
+forest5;forest;5;565.0075;3.358;10675;9.275753511
+forest6;forest;6;310.3875;;;
+restored_forest1;restored_forest;1;314.4616191;1.5195;12550;9.437555623
+restored_forest2;restored_forest;2;410.812181;;;
+restored_forest5;restored_forest;5;238.8176992;6.3145;16550;9.714201802
+restored_forest6;restored_forest;6;503.1918674;3.8165;32125;10.37742095
